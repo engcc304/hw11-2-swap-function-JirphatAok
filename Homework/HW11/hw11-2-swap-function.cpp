@@ -51,8 +51,8 @@ int main () {
     printf( "Name: %s (%d)\n",name02,age2 ) ;
 
     swapage(age1, age2);
-    
-    printf( "** SWAP AGE **\n" ) ;
+
+    printf( "\n** SWAP AGE **\n" ) ;
     printf( "Name: %s (%d)\n",name01,age1 ) ;
     printf( "Name: %s (%d)\n",name02,age2 ) ;
 
